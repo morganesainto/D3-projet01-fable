@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline|Hind|Indie+Flower|Modak&display=swap');
+
+h1 {
+font-size: 4em;
+font-family: 'Modak', cursive;
+color: #f2d6ca;
+}
+
+h2 {
+font-size: 4em;
+font-family: 'Fascinate Inline', cursive;
+color: #cae5ef;
+}
+
+
+
+h3 {
+font-size: 4em;
+font-family: 'Indie Flower', cursive;
+color: #e2d498;
+}
+
+body {
+  font-family: 'Hind', sans-serif;
+}

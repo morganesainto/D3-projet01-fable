@@ -1,0 +1,53 @@
+body {
+text-align: center;
+
+
+}
+
+
+
+header1 {
+background: #f2e7eb;
+  background-size: cover;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+#fable01 {
+  overflow: hidden;
+  background: white url('images/fab.jpg')left no-repeat;
+  display: flex;
+  padding: 30px 50px 40px;
+  align-items: flex-end;
+  text-align: right;
+
+}
+header2 {
+background: #e7f2f0;
+  background-size: cover;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+header3 {
+background: #fff9d7;
+  background-size: cover;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+justify-content: center;
+text-align: center;
+}
+.main-content {
+max-width: 60px;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
